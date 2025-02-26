@@ -5,9 +5,13 @@
 ## 🚀 Sobre mim
 
 💻 Desenvolvedor apaixonado por tecnologia, sempre buscando aprender e evoluir.
+<br>
 📍 Focado em desenvolvimento web e sistemas robustos.
+<br>
 🔧 Experiência com **HTML5, CSS3, Java, Spring Boot, PostgreSQL, PHP, JavaScript, Bootstrap, Angular, React, Scriptcase e mais!**
+<br>
 🎯 Atualmente, trabalhando em [Megasoft](https://www.megasoft.com.br), analista de requisito e teste.
+<br>
 🎯 Atualmente, trabalhando em [danillo.info](https://danillo.info), criando soluções para negócios digitais.
 
 ## 🛠️ Tecnologias e Ferramentas
