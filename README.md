@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Danillo Araújo!
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
+<!-- ![Banner](https://source.unsplash.com/1600x400/?technology,coding) -->
 
 ## 🚀 Sobre mim
 
@@ -40,7 +40,7 @@
 📧 E-mail: [contato@danillo.info](mailto:contato@danillo.info)  
 🌎 Site: [danillo.info](https://danillo.info)  
 💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/danillosdd)  
-<!--🚀 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)  -->
+<!-- 🚀 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)  -->
 
 ---
 
