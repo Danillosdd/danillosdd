@@ -40,7 +40,7 @@
 
 📧 E-mail: [contato@danillo.info](mailto:contato@danillo.info)  
 🌎 Site: [danillo.info](https://danillo.info)  
-💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/danillosdd)  
+💼 LinkedIn: [linkedin.com/in/danillosdd](https://linkedin.com/in/danillosdd)  
 <!-- 🚀 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)  -->
 
 ---
