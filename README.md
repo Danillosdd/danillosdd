@@ -1,5 +1,3 @@
-## Olá 👋
-
 # 👋 Olá, eu sou Danillo Araújo!
 
 ![Banner](https://source.unsplash.com/1600x400/?technology,coding)
@@ -13,7 +11,6 @@
 🎯 Atualmente, trabalhando em [danillo.info](https://danillo.info), criando soluções para negócios digitais.
 
 ## 🛠️ Tecnologias e Ferramentas
-
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,9 +33,9 @@
 
 ## 📫 Contato
 
-📧 E-mail: [seu-email@example.com](mailto:seu-email@example.com)  
+📧 E-mail: [contato@danillo.info](mailto:contato@danillo.info)  
 🌎 Site: [danillo.info](https://danillo.info)  
-💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+💼 LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/danillosdd)  
 🚀 Portfólio: [seu-portfolio.com](https://seu-portfolio.com)  
 
 ---
