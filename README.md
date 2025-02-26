@@ -10,9 +10,10 @@
 <br>
 🔧 Experiência com **HTML5, CSS3, Java, Spring Boot, PostgreSQL, PHP, JavaScript, Bootstrap, Angular, React, Scriptcase e mais!**
 <br>
-🎯 Atualmente, trabalhando em [Megasoft](https://www.megasoft.com.br), analista de requisito e teste.
+🎯 Atualmente, trabalhando em <a href="https://www.megasoft.com.br" target="_blank" rel="noopener noreferrer">Megasoft</a>, analista de requisito e teste.
 <br>
-🎯 Atualmente, trabalhando em [danillo.info](https://danillo.info), criando soluções para negócios digitais.
+🎯 Atualmente, trabalhando em <a href="https://danillo.info" target="_blank" rel="noopener noreferrer">danillo.info</a>, criando soluções para negócios digitais.
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
